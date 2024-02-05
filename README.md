@@ -1,5 +1,5 @@
 
 
 <div style="text-align: center">
-  # peopleCounterForMackLeaps  
+  <h1>peopleCounterForMackLeaps</h1>  
 </div>
